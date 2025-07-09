@@ -1,4 +1,4 @@
-package com.YummiGo.Model;
+package com.YummiGo.model;
 
 public enum USER_ROLE {
 

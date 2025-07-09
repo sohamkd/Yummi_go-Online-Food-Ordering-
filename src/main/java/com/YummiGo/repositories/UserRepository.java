@@ -1,6 +1,6 @@
-package com.YummiGo.Repositories;
+package com.YummiGo.repositories;
 
-import com.YummiGo.Model.User;
+import com.YummiGo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User,Long> {
